@@ -1,2 +1,2 @@
 # [supervised-machine-learning](link)-challenge
-Predicting Credit Risk for LendingClub
+## Predicting Credit Risk for LendingClub
